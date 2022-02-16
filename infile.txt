@@ -1,0 +1,4 @@
+Hello from infile
+We're chilling here
+It's cool and nice
+Yoyoyo
