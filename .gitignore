@@ -1,0 +1,5 @@
+**/objs
+libft/libft.a
+**/.vscode/
+**/.DS_Store
+pipex
